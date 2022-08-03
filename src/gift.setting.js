@@ -13,9 +13,9 @@ export const homeConfig = {
   title: '七夕节送礼抽奖',
   // 留言，数组的每一项代表一行
   messages: [
-    { key: 'a', wording: '这是第一行文案' },
-    { key: 's', wording: '这是第二行文案' },
-    { key: 'd', wording: '然后，这里是第三行文案' },
+    { key: 'a', wording: '今天是个特殊的日子哦！' },
+    { key: 's', wording: '专属女神看过来！' },
+    { key: 'd', wording: '往下看，礼物抽奖来喽！' },
   ],
   // 最终解释权归属人
   owner: 'KinXpeng',
